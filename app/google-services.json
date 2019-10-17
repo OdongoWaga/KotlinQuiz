@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "216163378491",
+    "firebase_url": "https://kotlinquiz-f208e.firebaseio.com",
+    "project_id": "kotlinquiz-f208e",
+    "storage_bucket": "kotlinquiz-f208e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216163378491:android:2b9a37d4ab15e781",
+        "android_client_info": {
+          "package_name": "com.lpw.kotlinquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216163378491-ks0cb9dpanaoigkla6tisp5efacbah78.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lpw.kotlinquiz",
+            "certificate_hash": "0791c977dad15139adb4aacf2ba34d330d43c700"
+          }
+        },
+        {
+          "client_id": "216163378491-4rrmprtiki978pjpapbmeu4f9u9u47vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyv7BjKnNgy51PQeo51WU_f9C2Y5-HeQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216163378491-4rrmprtiki978pjpapbmeu4f9u9u47vv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
